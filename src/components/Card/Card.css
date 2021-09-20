@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+    width: 250px;
+}
+
+.card{
+    border: 1px solid blue;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.detail{
+    padding-left: 25px;
+}
